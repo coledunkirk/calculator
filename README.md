@@ -1,1 +1,2 @@
-https://coledunkirk.github.io/calculator/
+https://coledunkirk.github.io/calculator/ 
+Calculator created using JavaScript
